@@ -1,9 +1,9 @@
-.. teacher_brain documentation master file, created by
-   sphinx-quickstart on Sat Jul  1 13:13:09 2023.
+.. Teacher_Brain documentation master file, created by
+   sphinx-quickstart on Sat Jul  1 13:44:51 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to teacher_brain's documentation!
+Welcome to Teacher_Brain's documentation!
 =========================================
 
 .. toctree::

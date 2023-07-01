@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'teacher_brain'
+project = 'Teacher_Brain'
 copyright = '2023, Shivoh Chirayil Nandakumar'
 author = 'Shivoh Chirayil Nandakumar'
 release = '0.0'
@@ -14,10 +14,10 @@ release = '0.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['sphinx.ext.autodoc', 'sphinxcontrib.versioning']
+extensions = []
 
 templates_path = ['_templates']
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = []
 
 
 

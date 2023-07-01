@@ -1,0 +1,525 @@
+Dec\_2022 package
+=================
+
+Submodules
+----------
+
+Dec\_2022.IDDVS module
+----------------------
+
+.. automodule:: Dec_2022.IDDVS
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_Dropout module
+-------------------------------
+
+.. automodule:: Dec_2022.IDDVS_Dropout
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_Dropout0\_2 module
+-----------------------------------
+
+.. automodule:: Dec_2022.IDDVS_Dropout0_2
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_Dropout0\_3 module
+-----------------------------------
+
+.. automodule:: Dec_2022.IDDVS_Dropout0_3
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_GRU module
+---------------------------
+
+.. automodule:: Dec_2022.IDDVS_GRU
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_SimpleRNN module
+---------------------------------
+
+.. automodule:: Dec_2022.IDDVS_SimpleRNN
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_dependencies module
+------------------------------------
+
+.. automodule:: Dec_2022.IDDVS_dependencies
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_improved module
+--------------------------------
+
+.. automodule:: Dec_2022.IDDVS_improved
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_minimal module
+-------------------------------
+
+.. automodule:: Dec_2022.IDDVS_minimal
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_mse module
+---------------------------
+
+.. automodule:: Dec_2022.IDDVS_mse
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_mse\_145 module
+--------------------------------
+
+.. automodule:: Dec_2022.IDDVS_mse_145
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_mse\_efficient module
+--------------------------------------
+
+.. automodule:: Dec_2022.IDDVS_mse_efficient
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_postprocess module
+-----------------------------------
+
+.. automodule:: Dec_2022.IDDVS_postprocess
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_postprocess\_1sigma module
+-------------------------------------------
+
+.. automodule:: Dec_2022.IDDVS_postprocess_1sigma
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_postprocess\_2sigma module
+-------------------------------------------
+
+.. automodule:: Dec_2022.IDDVS_postprocess_2sigma
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_postprocess\_3sigma module
+-------------------------------------------
+
+.. automodule:: Dec_2022.IDDVS_postprocess_3sigma
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_postprocess\_3std module
+-----------------------------------------
+
+.. automodule:: Dec_2022.IDDVS_postprocess_3std
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_postprocess\_4std module
+-----------------------------------------
+
+.. automodule:: Dec_2022.IDDVS_postprocess_4std
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_postprocess\_cosine module
+-------------------------------------------
+
+.. automodule:: Dec_2022.IDDVS_postprocess_cosine
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_postprocess\_normax module
+-------------------------------------------
+
+.. automodule:: Dec_2022.IDDVS_postprocess_normax
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_postprocess\_v1 module
+---------------------------------------
+
+.. automodule:: Dec_2022.IDDVS_postprocess_v1
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_preprocess module
+----------------------------------
+
+.. automodule:: Dec_2022.IDDVS_preprocess
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_preprocess\_cosine module
+------------------------------------------
+
+.. automodule:: Dec_2022.IDDVS_preprocess_cosine
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_preprocess\_debugger module
+--------------------------------------------
+
+.. automodule:: Dec_2022.IDDVS_preprocess_debugger
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_preprocess\_improved module
+--------------------------------------------
+
+.. automodule:: Dec_2022.IDDVS_preprocess_improved
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_preprocess\_v1 module
+--------------------------------------
+
+.. automodule:: Dec_2022.IDDVS_preprocess_v1
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_preprocess\_y module
+-------------------------------------
+
+.. automodule:: Dec_2022.IDDVS_preprocess_y
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_transformer module
+-----------------------------------
+
+.. automodule:: Dec_2022.IDDVS_transformer
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0 module
+--------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_1 module
+-----------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_1
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_1\_run module
+----------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_1_run
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_2 module
+-----------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_2
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_2\_run module
+----------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_2_run
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_3 module
+-----------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_3
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_3\_run module
+----------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_3_run
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_3\_train module
+------------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_3_train
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_4 module
+-----------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_4
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_4\_run module
+----------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_4_run
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_4\_train module
+------------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_4_train
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_5 module
+-----------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_5
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_5\_run module
+----------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_5_run
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_6 module
+-----------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_6
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_6\_run module
+----------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_6_run
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_7 module
+-----------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_7
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_7\_run module
+----------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_7_run
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_8 module
+-----------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_8
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_9 module
+-----------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_9
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_9\_1 module
+--------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_9_1
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_9\_2 module
+--------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_9_2
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_9\_3 module
+--------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_9_3
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_9\_4 module
+--------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_9_4
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_9\_5 module
+--------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_9_5
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_9\_6 module
+--------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_9_6
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_9\_7 module
+--------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_9_7
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_9\_8 module
+--------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_9_8
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_9\_9 module
+--------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_9_9
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_lifelonglearning module
+--------------------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_lifelonglearning
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v0\_run module
+-------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v0_run
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v1\_0\_0 module
+--------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v1_0_0
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v1\_0\_1 module
+--------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v1_0_1
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.IDDVS\_v1\_1\_0 module
+--------------------------------
+
+.. automodule:: Dec_2022.IDDVS_v1_1_0
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.gui\_script module
+----------------------------
+
+.. automodule:: Dec_2022.gui_script
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.mission\_names module
+-------------------------------
+
+.. automodule:: Dec_2022.mission_names
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Dec\_2022.training\_iddvs module
+--------------------------------
+
+.. automodule:: Dec_2022.training_iddvs
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: Dec_2022
+   :members:
+   :undoc-members:
+   :show-inheritance:
