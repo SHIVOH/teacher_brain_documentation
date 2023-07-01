@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Teacher_Brain'
+project = 'Teacher Brain'
 copyright = '2023, Shivoh Chirayil Nandakumar'
 author = 'Shivoh Chirayil Nandakumar'
 release = '0.0'
